@@ -44,8 +44,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-![Uploading image.png…]()
 
+![Screenshot (123)](https://github.com/krithigau/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/150319401/d5bbdf95-36ca-4de4-aff6-71babdef3462)
 
 ### Name:U KRITHIGA
 ### Register Number: 212223240076
